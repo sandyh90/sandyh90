@@ -8,6 +8,6 @@
 <a href="https://trakteer.id/pickedianz"><img src="https://user-images.githubusercontent.com/30236529/126056186-2b89f3eb-d6a8-4e2d-b840-befb4f8362fd.png"></a>
 
 <h4 align="left">Source Code Berbayar</h4>
-<p>Jika anda ingin membeli source code aplikasi saya bisa mengunjungi link dibawah ini,
+<p>Jika anda ingin membeli atau sedang mencari source code aplikasi anda bisa mengunjungi link dibawah ini,
   dan sekaligus anda juga ikut mensupport saya dalam pembuatan aplikasi tersebut, segala bentuk partisipasi anda saya mengucapkan terima kasih.</p>
 <a href="https://trakteer.id/pickedianz/showcase?category=software">Visit My Source Code Page<a/>
