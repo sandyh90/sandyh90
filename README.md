@@ -10,4 +10,4 @@
 <h4 align="left">Source Code Berbayar</h4>
 <p>Apakah anda ingin membeli atau sedang mencari source code aplikasi anda bisa mengunjungi link dibawah ini,
   dan sekaligus anda juga ikut mensupport saya dalam pembuatan aplikasi tersebut, segala bentuk partisipasi anda saya mengucapkan terima kasih.</p>
-<a href="https://trakteer.id/pickedianz/showcase?category=software">Visit My Source Code Page<a/>
+<a href="https://trakteer.id/pickedianz/showcase?category=source-code">Visit My Source Code Page<a/>
